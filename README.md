@@ -134,14 +134,3 @@ MIT License — feel free to use, remix, and build on top of this.
 ### Built with ❤️ for modern e-commerce experiences
 
 ```
-
----
-
-If you want, next we can:
-- 🔥 Make this **founder-grade** (for pitching/investors)
-- 🛍️ Add **checkout flow + Razorpay**
-- 📱 Redesign UI for **conversion optimization**
-- 🧠 Rename & brand this as a real startup
-
-Just tell me the next move 😄
-```

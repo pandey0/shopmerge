@@ -1,11 +1,3 @@
-Absolutely 👍
-Here’s a **clean, GitHub-ready `README.md`** for the app you’re building. It’s written like a real product README (not a college project), highlights the 3D interaction, and is easy for anyone cloning the repo to understand.
-
-You can **copy-paste this directly as `README.md`**.
-
----
-
-```md
 # 3D Interactive T-Shirt Store 👕✨
 
 A modern, immersive **3D e-commerce product experience** built with **Next.js + React Three Fiber**, designed to showcase apparel in a way that feels playful, tactile, and premium.
